@@ -14,7 +14,7 @@ protocol NetworkServiceProtocol {
 final class NetworkService: NetworkServiceProtocol {
     
     private let baseURL = "https://api.thecatapi.com/v1"
-    private let apiKey = "live_ZGCB5SH3ihevagSDhzpbkIdqlChtni4LwutqhheVvFe3L0cYK3j7ZUAqI0zyNEMi" //TODO: get it from config file
+    private let apiKey = "" //TODO: get it from config file
     
     init() {
         let memoryCapacity = 10 * 1024 * 1024 // 10 MB
