@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "99D3A35C-D363-41EE-9E94-70777CB617B9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C7E8E24B-EB2D-4CCA-8657-E25D7EE3A74A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoolCats/Core/Network/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "validateResponse(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C7E8E24B-EB2D-4CCA-8657-E25D7EE3A74A - 44eade10671b12d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoolCats.NetworkService.validateResponse(__C.NSURLResponse) throws -&gt; ()"
+                  moduleName = "CoolCats"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elano/Documents/ProjetosPessoais/CoolCats/CoolCats/Core/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "834">
+               </Location>
+               <Location
+                  uuid = "C7E8E24B-EB2D-4CCA-8657-E25D7EE3A74A - 44eade10671b12d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoolCats.NetworkService.validateResponse(__C.NSURLResponse) throws -&gt; ()"
+                  moduleName = "CoolCats"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elano/Documents/ProjetosPessoais/CoolCats/CoolCats/Core/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "896">
+               </Location>
+               <Location
+                  uuid = "C7E8E24B-EB2D-4CCA-8657-E25D7EE3A74A - 44eade10671b14a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoolCats.NetworkService.validateResponse(__C.NSURLResponse) throws -&gt; ()"
+                  moduleName = "CoolCats"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elano/Documents/ProjetosPessoais/CoolCats/CoolCats/Core/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "834">
+               </Location>
+               <Location
+                  uuid = "C7E8E24B-EB2D-4CCA-8657-E25D7EE3A74A - 44eade10671b14a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoolCats.NetworkService.validateResponse(__C.NSURLResponse) throws -&gt; ()"
+                  moduleName = "CoolCats"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elano/Documents/ProjetosPessoais/CoolCats/CoolCats/Core/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "896">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
